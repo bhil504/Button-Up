@@ -1,0 +1,24 @@
+div{
+    padding: 0px;
+    margin: 40px;
+    color: white;
+}
+h1{
+    border-color: turquoise;
+    width: 500px;
+}
+.search{
+    color: turquoise;
+    border-color: turquoise;
+    width: 200px;
+    border-radius: 10px;
+}
+.plus{
+    color: white;
+    border-color: white;
+    border-radius: 50px;
+}
+.Account{
+    color: white;
+    box-shadow: black 10px, 5px;
+}
